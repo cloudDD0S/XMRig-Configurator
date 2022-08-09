@@ -13,7 +13,7 @@ MACOSARM = "xmrig-6.15.3-MacOSarm/"
 #Pool Info
 pool = "gulf.moneroocean.stream"
 port = "10128"
-user = "42Eto59w19VZgD6kf4WFSVWuzymoFSargcprqt24Mign7P5s6ZeLabuZpZ2TaX7UQbAXKR8S2sQgqWpk3tykWKhBNFNputt" #?Wallet Adress
+user = "83BtAgSG22x4mWKGvARh1Rc6CGg7H2hsdQnwYdzTdbshTei3QX6puHUZ9srSf26M9qFoQzw1uXZdEhJ9XnBefXQJGGsEYa2" #?Wallet Adress
 password = "main_PC" #?Password or ID
 
 #Server Config
